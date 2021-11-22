@@ -1,0 +1,36 @@
+Document : https://docs.google.com/document/d/1lvKENyhlXfqDgc1IeXewRPaith8HUMVMZp6v4ThbCvw/edit?usp=sharing
+
+Beskrivning och reflektion över min kod i uppgift "Multifabriken
+
+Projektet innehåller 5 olika klasser och varje klass representerar en specifik produkttyp.
+Förutom Orders klass som används för att köra Menu och samla båda inputs och outputs.
+Det betyder att man behöver bara skapa ett objekt från Orders klass och kör bara startMenuOrders funktionen
+som kommer att ta hand om beställningen. Jag har använt Multilevel inheritance och Tofu som Superclass.
+Tofu> Cars> Candies> Snorer> Orders.
+
+På det här sättet kunde jag nå till alla andra funktioner som finns i andra klasserna och samla ihop de i startMenuOrders funktion
+som finns i Orders klass. Jag har även gjort en funktion som heter printAllOrders() som samlar alla andra skriva ut funktioner
+som finns i varje klass. Variabler i själva klasser är privata för att bli bättre encapsulation. Det betyder
+att man kan ändra på variabler genom Getter och Setter funktioner och inte direkt.
+Jag kan göra Getter och Setter protected istället för public. Det betyder att man kan bara beställa genom
+de tre funktionerna för att i varje klass finns tre funktioner som tar hand om att beställa en ny produkt
+och lägga de i en lista. Jag gjorde makeDirektOrder funktion bara för att ge lite frihet till användarna att
+skapa som de vill direkt. Istället för att köra menyn man kan skapa ett objekt och kör den här funktionen
+som tar variablerna och lägga de till listan. Därefter kan man bara skriva ut den här beställningen.
+
+För att jag vet att OOP kan hjälpa oss att inte skriva om igen. Jag försökte faktiskt att skriva bara
+en Print funktion för Snören, Tofu och Candies, för att både tre har string och int variabler.
+Det betyder att jag kan bara göra en funktion inne i Orders som tar två parametrar string och int och skriva ut dem.
+Men jag behöver ju skriva vad man har beställt såsom color, length och flavour m.m. Så jag gjorde inte det.
+Jag såg att det finns en förklaring Gif bild. I bilden har de delat Registernummer till två delar.
+
+En för alfabet och den andra för siffror. Jag har gjort samma sak men istället för att göra siffror integer
+gjorde jag de string. Anledningen till att jag gjorde så är för att det finns ju bilar som har första siffran som noll.
+Det betyder att integer kommer att ta bort den första siffran om den är noll, vilket är inte bra.
+Jag tror att det kommer vara ganska lätt om en annan programmerare jobbade med projektet.
+Alla variabler och funktioner har förtydligat namn, varje klass har specifika funktioner
+och är lätta att ändra. Om man vill lägga till en ny produkt behöver man bara skapa en annan klass och gör den superklass genom att ärva den sista.
+
+OBS: Anledningen till att jag använde Getter och Setter inne i samma klass istället för att använda
+variabler direkt är för att vill vänja mig vid att alltid använda getter och setter. 
+ 

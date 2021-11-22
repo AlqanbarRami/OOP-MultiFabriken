@@ -1,0 +1,16 @@
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\bin\Debug\net5.0\MultiFabriken.exe
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\bin\Debug\net5.0\MultiFabriken.deps.json
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\bin\Debug\net5.0\MultiFabriken.runtimeconfig.json
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\bin\Debug\net5.0\MultiFabriken.runtimeconfig.dev.json
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\bin\Debug\net5.0\MultiFabriken.dll
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\bin\Debug\net5.0\ref\MultiFabriken.dll
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\bin\Debug\net5.0\MultiFabriken.pdb
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\obj\Debug\net5.0\MultiFabriken.csproj.AssemblyReference.cache
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\obj\Debug\net5.0\MultiFabriken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\obj\Debug\net5.0\MultiFabriken.AssemblyInfoInputs.cache
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\obj\Debug\net5.0\MultiFabriken.AssemblyInfo.cs
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\obj\Debug\net5.0\MultiFabriken.csproj.CoreCompileInputs.cache
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\obj\Debug\net5.0\MultiFabriken.dll
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\obj\Debug\net5.0\ref\MultiFabriken.dll
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\obj\Debug\net5.0\MultiFabriken.pdb
+C:\Users\ramia\OneDrive\Skrivbord\Tostudent\MultiFabriken\obj\Debug\net5.0\MultiFabriken.genruntimeconfig.cache

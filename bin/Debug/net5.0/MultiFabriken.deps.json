@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MultiFabriken/1.0.0": {
+        "runtime": {
+          "MultiFabriken.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiFabriken/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
